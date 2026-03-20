@@ -7,41 +7,41 @@
 
 Defines direction of flex items:
 
-row
+1.row
 
-row-reverse
+2.row-reverse
 
-column
+3.column
 
-column-reverse
+4.column-reverse
 
 🔹 justify-content
 
 Aligns items horizontally (main axis):
 
-flex-start
+1.flex-start
 
-flex-end
+2.flex-end
 
-center
+3.center
 
-space-between
+4.space-between
 
-space-around
+5.space-around
 
-space-evenly
+6.space-evenly
 
 🔹 align-items
 
 Aligns items vertically (cross axis):
 
-flex-start
+1.flex-start
 
-flex-end
+2.flex-end
 
-center
+3.center
 
-stretch
+4.stretch
 
 baseline
 
@@ -49,11 +49,11 @@ baseline
 
 Controls wrapping of items:
 
-nowrap
+1.nowrap
 
-wrap
+2.wrap
 
-wrap-reverse
+3.wrap-reverse
 
 🔹 order
 
