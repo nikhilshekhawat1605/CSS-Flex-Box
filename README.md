@@ -67,6 +67,6 @@ Controls how much item grows:
 
 flex-grow: number; (default is 0)
 
-# Image
+# Image📷
 
 ![alt text](image.png)
