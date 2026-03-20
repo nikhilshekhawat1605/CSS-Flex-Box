@@ -1,8 +1,8 @@
 # CSS-Flex-Box
 
-Learning and practicing CSS Flexbox with real layout examples.
+**Learning and practicing CSS Flexbox with real layout examples.**
 
-📦 Flexbox Properties
+📦 Flexbox Properties  
 🔹 flex-direction
 
 Defines direction of flex items:
@@ -66,3 +66,6 @@ order: number; (default is 0)
 Controls how much item grows:
 
 flex-grow: number; (default is 0)
+
+#Image
+![alt text](image.png)
